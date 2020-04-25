@@ -2784,7 +2784,7 @@ html:not(.fresh-visit) .visible .no-videos .hero__subtitle {
   font-size: 28px;
   line-height: 1.35714;
   position: relative;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: 'Volkhov', serif;
 }
 .is-mobile .hero__title {
   -webkit-transform: none;
